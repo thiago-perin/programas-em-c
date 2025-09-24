@@ -531,5 +531,6 @@ void mostrarCreditos() {
     printf("#########################################\n");
     printf("Jogo desenvolvido por: Thiago Marcel\n");
     printf("Disciplina: Estrutura de Dados\n");
+    printf("Professor: Nathan de Freitas\n");
     printf("#########################################\n");
 }
