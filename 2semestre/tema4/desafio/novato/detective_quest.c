@@ -114,28 +114,27 @@ ComodoData DADOS_COMODOS[TOTAL_COMODOS];
 
 // Array global com frases genéricas para quando o jogador explora um local onde o item já foi pego.
 const char* FRASES_GLOBAIS_VAZIO[TOTAL_FRASES_VAZIO] = {
-    "Você sente um calafrio percorrer sua espinha.", "O silêncio nesta casa é ensurdecedor.",
-    "Uma tábua solta no chão range em algum lugar próximo.", "Você tem a nítida sensação de estar sendo observado.",
-    "A poeira dança no feixe de luz que entra pela janela.", "Uma teia de aranha roça seu rosto, fazendo você recuar.",
-    "O ar aqui é pesado, carregado de memórias esquecidas.", "Você esbarra em um móvel coberto por um lençol branco.",
-    "Um livro aberto em uma página amarelada jaz sobre uma poltrona.", "As sombras parecem se mover nos cantos da sua visão.",
-    "Você se pergunta que histórias estas paredes poderiam contar.", "O som do seu próprio coração parece alto demais.",
-    "Um retrato na parede parece seguir seus movimentos com os olhos.", "O medo é um companheiro constante neste lugar.",
-    "Cada passo à frente parece um passo para mais fundo no desconhecido.", "Um vento súbito fecha uma porta com um baque, assustando você.",
-    "A solidão do lugar é quase palpável.", "Você encontra uma marca de mão empoeirada na parede.",
-    "Um vago cheiro de perfume antigo ainda paira no ar.", "Você pisa em algo que se quebra, mas não vê o que é.",
-    "A escuridão parece ter vida própria aqui.", "Você pensa em desistir, mas a curiosidade é mais forte.",
-    "Um pequeno ruído faz você parar e prender a respiração.", "A esperança de encontrar uma saída começa a diminuir.",
-    "Tudo aqui parece congelado no tempo.", "Você limpa uma janela suja, mas lá fora a escuridão é total.",
-    "Sua respiração forma uma névoa no ar frio.", "Você se sente como um intruso em um túmulo.",
-    "A adrenalina mantém você alerta a cada segundo.", "Um eco distante responde ao som dos seus passos.",
-    "A realidade parece se distorcer levemente neste ambiente.", "Você se lembra por que veio aqui e reúne coragem.",
-    "O papel de parede está descascando, revelando camadas de história.", "O som de gotas caindo ritmadamente vem de algum lugar.",
-    "Você se sente pequeno e insignificante diante da idade desta casa.", "Uma dúvida surge: você está sozinho aqui?",
-    "A luz da sua lanterna parece ser engolida pelas sombras.", "Um sentimento de tristeza profunda emana deste cômodo.",
-    "Você nota que não há espelhos em lugar nenhum.", "Sua intuição grita que você está perto de uma descoberta."
+    "Voce sente um calafrio percorrer sua espinha.", "O silencio nesta casa e ensurdecedor.",
+    "Uma tabua solta no chao range em algum lugar proximo.", "Voce tem a nitida sensacao de estar sendo observado.",
+    "A poeira danca no feixe de luz que entra pela janela.", "Uma teia de aranha roca seu rosto, fazendo voce recuar.",
+    "O ar aqui e pesado, carregado de memorias esquecidas.", "Voce esbarra em um movel coberto por um lencol branco.",
+    "Um livro aberto em uma pagina amarelada jaz sobre uma poltrona.", "As sombras parecem se mover nos cantos da sua visao.",
+    "Voce se pergunta que historias estas paredes poderiam contar.", "O som do seu proprio coracao parece alto demais.",
+    "Um retrato na parede parece seguir seus movimentos com os olhos.", "O medo e um companheiro constante neste lugar.",
+    "Cada passo a frente parece um passo para mais fundo no desconhecido.", "Um vento subito fecha uma porta com um baque, assustando voce.",
+    "A solidao do lugar e quase palpavel.", "Voce encontra uma marca de mao empoeirada na parede.",
+    "Um vago cheiro de perfume antigo ainda paira no ar.", "Voce pisa em algo que se quebra, mas nao ve o que e.",
+    "A escuridao parece ter vida propria aqui.", "Voce pensa em desistir, mas a curiosidade e mais forte.",
+    "Um pequeno ruido faz voce parar e prender a respiraçao.", "A esperanca de encontrar uma saida comeca a diminuir.",
+    "Tudo aqui parece congelado no tempo.", "Voce limpa uma janela suja, mas la fora a escuridao e total.",
+    "Sua respiracao forma uma nevoa no ar frio.", "Voce se sente como um intruso em um tumulo.",
+    "A adrenalina mantem voce alerta a cada segundo.", "Um eco distante responde ao som dos seus passos.",
+    "A realidade parece se distorcer levemente neste ambiente.", "Voce se lembra por que veio aqui e reune coragem.",
+    "O papel de parede esta descascando, revelando camadas de historia.", "O som de gotas caindo ritmadamente vem de algum lugar.",
+    "Voce se sente pequeno e insignificante diante da idade desta casa.", "Uma duvida surge: você esta sozinho aqui?",
+    "A luz da sua lanterna parece ser engolida pelas sombras.", "Um sentimento de tristeza profunda emana deste comodo.",
+    "Você nota que não ha espelhos em lugar nenhum.", "Sua intuicao grita que voce esta perto de uma descoberta."
 };
-
 
 // ========================================================================================
 // PROTÓTIPOS DAS FUNÇÕES
