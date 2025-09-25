@@ -131,7 +131,7 @@ const char* FRASES_GLOBAIS_VAZIO[TOTAL_FRASES_VAZIO] = {
     "A adrenalina mantem voce alerta a cada segundo.", "Um eco distante responde ao som dos seus passos.",
     "A realidade parece se distorcer levemente neste ambiente.", "Voce se lembra por que veio aqui e reune coragem.",
     "O papel de parede esta descascando, revelando camadas de historia.", "O som de gotas caindo ritmadamente vem de algum lugar.",
-    "Voce se sente pequeno e insignificante diante da idade desta casa.", "Uma duvida surge: você esta sozinho aqui?",
+    "Voce se sente pequeno e insignificante diante da idade desta casa.", "Uma duvida surge: voce esta sozinho aqui?",
     "A luz da sua lanterna parece ser engolida pelas sombras.", "Um sentimento de tristeza profunda emana deste comodo.",
     "Você nota que não ha espelhos em lugar nenhum.", "Sua intuicao grita que voce esta perto de uma descoberta."
 };
@@ -282,8 +282,8 @@ void inicializarDadosDoJogo() {
             "Um ISQUEIRO de metal esta no chao.",
             "Uma garrafa de AGUA pela metade foi deixada para tras.",
             "Um pe de CABRA pequeno esta encostado na parede.",
-            "O grande lustre de cristal está coberto de teias de aranha.",
-            "O papel de parede floral está descascando perto do teto.",
+            "O grande lustre de cristal esta coberto de teias de aranha.",
+            "O papel de parede floral esta descascando perto do teto.",
             "Um espelho com uma moldura ornamentada reflete uma imagem distorcida.",
             "O ar e pesado com o cheiro de poeira e madeira velha.",
             "Um relogio de pendulo quebrado marca o tempo que parou."},
